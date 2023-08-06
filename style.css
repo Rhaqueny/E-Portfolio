@@ -682,9 +682,14 @@ footer {
 @media (max-width: 480px) {
     .title {
         font-size: 52px;
+        padding: 8px
     }
     .header__para {
         font-size: 18px;
+        padding: 8px
+    }
+    .social__list {
+        padding: 8px;
     }
     .nav__link:first-child {
         display: none;
