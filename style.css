@@ -96,6 +96,7 @@ input:focus, textarea:focus {
     margin-bottom: 12px;
     text-align: left;
     line-height: 1;
+    margin-left: 8px
 }
 
 .blue {
@@ -198,11 +199,13 @@ nav,
     font-size: 24px;
     line-height: 2;
     max-width: 450px;
+    margin-left: 8px
 }
 
 .social__list {
     margin-top: 16px;
     display: flex;
+    margin-left: 8px
 }
 
 .social__link {
